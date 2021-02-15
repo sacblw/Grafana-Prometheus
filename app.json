@@ -3,6 +3,7 @@
   "scripts": {
   },
   "env": {
+    "url": "test.com"
   },
   "formation": {
   },
